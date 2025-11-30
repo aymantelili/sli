@@ -1,0 +1,5 @@
+/config/database.php
+/vendor/
+/.env
+.phpintel*
+storage/*.key
