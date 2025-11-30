@@ -1,0 +1,22 @@
+# SLI – Smart Logistics Information
+**Dräxlmaier Jemmel – Internal Feeding Performance Dashboard**
+
+Phase 1: INR Feeding (4 lines)  
+Future: COC, MM, Basis, R/S, etc.
+
+### Features
+- 5-level role-based access control
+- Clean English interface (German translation ready)
+- Responsive Bootstrap 5 design
+- Ready for internal server or GitHub + free PHP hosting
+
+### Roles & Access
+| Role             | Matricule Prefix | Access Level                              |
+|------------------|------------------|-------------------------------------------|
+| Directeur        | D1600xxxx        | Full system access                        |
+| Sous-Directeur   | sd1600xxxx       | Department only (e.g. MH)                 |
+| Supervisor MH    | s1600xxxx        | All MH data + user management             |
+| Team Leader      | tl1600xxxx       | Assigned lines only                       |
+| Opérateur        | O1600xxxx        | Own line only                             |
+
+Demo password for all accounts: **demo123**
